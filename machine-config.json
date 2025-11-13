@@ -1,0 +1,8 @@
+{
+  "mounts": [
+    {
+      "volume": "vol_vgje5len37d5e9zv",
+      "path": "/data"
+    }
+  ]
+}
